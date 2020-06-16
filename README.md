@@ -37,4 +37,4 @@
 結果の即時解釈、小規模な修正の円滑化に貢献  
 (R言語、Rスクリプト)
 
-[img](https://github.com/naokit1030/My-small-scripts/blob/img/sample_img.png)
+![img](https://github.com/naokit1030/My-small-scripts/blob/img/sample_img.png)
